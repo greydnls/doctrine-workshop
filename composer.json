@@ -1,0 +1,17 @@
+{
+    "name": "greydnls/doctrine-workshop",
+    "description": "Doctrine Workshop",
+    "type": "Workshop",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Graham Daniels",
+            "email": "greydnls@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "doctrine/orm": "^2.5",
+        "beberlei/assert": "^2.5"
+    }
+}
